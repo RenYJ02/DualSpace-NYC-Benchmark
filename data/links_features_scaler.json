@@ -1,0 +1,141 @@
+{
+  "train_count": 86982,
+  "features": {
+    "x_width_m": {
+      "mean": 30.986574233749515,
+      "std": 10.523289428558478
+    },
+    "x_length_m": {
+      "mean": 129.59268110367037,
+      "std": 122.9383786209717
+    },
+    "x_maxspeed_kmh": {
+      "mean": 41.14159611804742,
+      "std": 6.15464969880975
+    },
+    "x_lanes_num": {
+      "mean": 1.5566668965992965,
+      "std": 0.8828651045795719
+    },
+    "x_curvature_log1p": {
+      "mean": 0.02241471563913513,
+      "std": 0.10253140884749681
+    },
+    "x_node_street_count_mean": {
+      "mean": 3.643472212641696,
+      "std": 0.5752585138492641
+    },
+    "x_node_street_count_max": {
+      "mean": 3.8929088776988343,
+      "std": 0.8349547092429102
+    },
+    "x_poi_count_transit": {
+      "mean": 29.01307167000069,
+      "std": 24.93737993086801
+    },
+    "x_poi_logcount_transit": {
+      "mean": 2.9708099412395343,
+      "std": 1.103609978296437
+    },
+    "x_poi_per_km_transit": {
+      "mean": 353.8095748092691,
+      "std": 465.30734408283365
+    },
+    "x_poi_count_mobility_parking": {
+      "mean": 4.874042905428709,
+      "std": 6.414398866579038
+    },
+    "x_poi_logcount_mobility_parking": {
+      "mean": 1.2105316850199008,
+      "std": 1.0657422715375688
+    },
+    "x_poi_per_km_mobility_parking": {
+      "mean": 60.16272926593419,
+      "std": 110.24808133488526
+    },
+    "x_poi_count_food_nightlife": {
+      "mean": 21.95034604860776,
+      "std": 46.331590925432664
+    },
+    "x_poi_logcount_food_nightlife": {
+      "mean": 2.0148936509792446,
+      "std": 1.4620025754174888
+    },
+    "x_poi_per_km_food_nightlife": {
+      "mean": 267.0336390225919,
+      "std": 733.9504252555073
+    },
+    "x_poi_count_healthcare": {
+      "mean": 3.255731070796257,
+      "std": 5.002645270755296
+    },
+    "x_poi_logcount_healthcare": {
+      "mean": 0.9692882552840901,
+      "std": 0.9322572866395036
+    },
+    "x_poi_per_km_healthcare": {
+      "mean": 39.617373518447685,
+      "std": 82.17148804466629
+    },
+    "x_poi_count_education": {
+      "mean": 2.7151824515416982,
+      "std": 3.3440480972808
+    },
+    "x_poi_logcount_education": {
+      "mean": 1.0129840525474925,
+      "std": 0.7545092246457489
+    },
+    "x_poi_per_km_education": {
+      "mean": 32.889284707468946,
+      "std": 57.511053793227354
+    },
+    "x_poi_count_retail_market": {
+      "mean": 5.196695868110644,
+      "std": 7.356638953996638
+    },
+    "x_poi_logcount_retail_market": {
+      "mean": 1.2574893078981617,
+      "std": 1.050838702548697
+    },
+    "x_poi_per_km_retail_market": {
+      "mean": 62.30177483870564,
+      "std": 117.31707443428608
+    },
+    "x_poi_count_leisure_venue": {
+      "mean": 4.79360097491435,
+      "std": 5.274759169552803
+    },
+    "x_poi_logcount_leisure_venue": {
+      "mean": 1.4149849844869808,
+      "std": 0.8397199206454025
+    },
+    "x_poi_per_km_leisure_venue": {
+      "mean": 59.10288311360809,
+      "std": 97.13779985917232
+    },
+    "x_poi_count_traffic_control": {
+      "mean": 172.48546825780048,
+      "std": 89.01409486061759
+    },
+    "x_poi_logcount_traffic_control": {
+      "mean": 4.8983046210316585,
+      "std": 0.9981081113903675
+    },
+    "x_poi_per_km_traffic_control": {
+      "mean": 2113.547435229502,
+      "std": 2129.234418745411
+    },
+    "x_pop_2020": {
+      "mean": 4043.895242693891,
+      "std": 2022.7834799828854
+    },
+    "x_pop_log": {
+      "mean": 8.014607905496119,
+      "std": 1.231825357059839
+    },
+    "x_pop_density_km2": {
+      "mean": 14886.58385013764,
+      "std": 12645.881482636938
+    }
+  }
+}
